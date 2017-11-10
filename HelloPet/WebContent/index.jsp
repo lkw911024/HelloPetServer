@@ -8,5 +8,18 @@
 </head>
 <body>
 	<h1>Hello Pet World!</h1>
+	<!-- 
+		깃 허브 참고
+		http://gasaesososo.tistory.com/9
+	 -->
 </body>
 </html>
+
+<!-- 
+	안드로이드 / servlet 통신
+	https://m.blog.naver.com/PostView.nhn?blogId=lhk3832&logNo=220583704813&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F
+ 
+ 	http://nkcnow.tistory.com/246
+ 	
+ 	
+ -->
